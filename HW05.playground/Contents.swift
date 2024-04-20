@@ -6,7 +6,7 @@ func gcd3(a: Int, b: Int) -> Int {
         print ("no GCD")
         return 0
     }
-
+//
     func gcd3_(a: Int, b: Int) -> Int {
 
         if b == 0 {
